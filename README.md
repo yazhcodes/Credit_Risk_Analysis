@@ -7,9 +7,9 @@
   Here's a comparison of how well the different models fared in predicting Low Risk and High Risk Loan Applications.
 <p align='center'>
 <img src='https://github.com/yazhcodes/Credit_Risk_Analysis/blob/main/Resources/Images/Performance%20Chart.png' height=250 width=1000></img> 
-<br>
-<img src='https://github.com/yazhcodes/Credit_Risk_Analysis/blob/main/Resources/Images/High%20Risk%20Loans.png' height=350 width=400></img> 
-<img src='https://github.com/yazhcodes/Credit_Risk_Analysis/blob/main/Resources/Images/Low%20Risk%20Loans.png' height=350 width=400></img>
+<br><br>
+<img src='https://github.com/yazhcodes/Credit_Risk_Analysis/blob/main/Resources/Images/High%20Risk%20Loans.png' height=350 width=450></img>       
+<img src='https://github.com/yazhcodes/Credit_Risk_Analysis/blob/main/Resources/Images/Low%20Risk%20Loans.png' height=350 width=450></img>
 </p>
 
 ## Summary: 
